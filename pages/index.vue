@@ -34,5 +34,7 @@
     <Heber />
 
     <deco />
+
+    <loge />
   </div>
 </template>

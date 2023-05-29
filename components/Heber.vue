@@ -8,7 +8,10 @@
       design
     </p>
     <div class="mt-[24px]">
-      <img class="w-[1206px] t-[79px] h-[310px]" src="/img/h1.png" />
+      <img
+        class="w-[1206px] t-[79px] h-[310px] items-center"
+        src="/img/h1.png"
+      />
     </div>
   </div>
 </template>
