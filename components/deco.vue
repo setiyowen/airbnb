@@ -50,6 +50,7 @@
       </div>
     </div>
   </div>
+  <loge />
 </template>
 
 <script>
