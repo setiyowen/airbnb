@@ -7,11 +7,10 @@
       Une sélection de logements vérifiés selon des critères de qualité et de
       design
     </p>
-    <div class="mt-[24px]">
-      <img
-        class="w-[1206px] t-[79px] h-[310px] items-center"
-        src="/img/h1.png"
-      />
+    <div
+      class="mt-[24px] w-[1206px] flex-initial flex justify-center items-center"
+    >
+      <img class="" src="/img/h1.png" />
     </div>
   </div>
 </template>
