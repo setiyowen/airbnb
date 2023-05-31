@@ -7,15 +7,13 @@
     </div>
 
     <div
-      class="grid lg:grid-cols-4 md:grid-cols-2 sm:grid-cols-1 ml-[80px] mr-[80px] gap-[8px]"
-    >
+      class="grid lg:grid-cols-4 md:grid-cols-2 sm:grid-cols-1 ml-[80px] mr-[80px] gap-[8px]">
       <div class="flex-none">
         <img src="/img/loge1.png" class="w-[290px] h-[200px] rounded-md" />
         <div class="flex">
           <p class="text-base border-[1px] border-black m-2">SUPERHOST</p>
           <p
-            class="text-base text-gray-500 items-center pl-[13px] mt-[20px] w-[120px]"
-          >
+            class="text-base text-gray-500 items-center pl-[13px] mt-[10px] w-[120px]">
             Toledo
           </p>
           <div class="flex"></div>
@@ -29,8 +27,7 @@
         <div class="flex">
           <p class="text-base border-[1px] m-2 border-black">SUPERHOST</p>
           <p
-            class="text-base text-gray-500 items-center pl-[13px] mt-[20px] w-[120px]"
-          >
+            class="text-base text-gray-500 items-center pl-[13px] mt-[10px] w-[120px]">
             Mesa
           </p>
         </div>
@@ -43,8 +40,7 @@
         <div class="flex">
           <p class="text-base border-[1px] m-2 border-black">SUPERHOST</p>
           <p
-            class="text-base text-gray-500 items-center pl-[13px] mt-[20px] w-[120px]"
-          >
+            class="text-base text-gray-500 items-center pl-[13px] mt-[10px] w-[120px]">
             Utica
           </p>
         </div>
@@ -57,8 +53,7 @@
         <div class="flex">
           <p class="text-base border-[1px] m-2 border-black">SUPERHOST</p>
           <p
-            class="text-base text-gray-500 items-center pl-[13px] mt-[20px] w-[120px]"
-          >
+            class="text-base text-gray-500 items-center pl-[13px] mt-[10px] w-[120px]">
             South Bend
           </p>
         </div>
@@ -71,8 +66,7 @@
         <div class="flex">
           <p class="text-base border-[1px] m-2 border-black">SUPERHOST</p>
           <p
-            class="text-base text-gray-500 items-center pl-[13px] mt-[20px] w-[120px]"
-          >
+            class="text-base text-gray-500 items-center pl-[13px] mt-[10px] w-[120px]">
             South Bend
           </p>
         </div>
@@ -85,8 +79,7 @@
         <div class="flex">
           <p class="text-base border-[1px] m-2 border-black">SUPERHOST</p>
           <p
-            class="text-base text-gray-500 items-center pl-[13px] mt-[20px] w-[120px]"
-          >
+            class="text-base text-gray-500 items-center pl-[13px] mt-[10px] w-[120px]">
             South Bend
           </p>
         </div>
@@ -99,8 +92,7 @@
         <div class="flex">
           <p class="text-base border-[1px] m-2 border-black">SUPERHOST</p>
           <p
-            class="text-base text-gray-500 items-center pl-[13px] mt-[20px] w-[120px]"
-          >
+            class="text-base text-gray-500 items-center pl-[13px] mt-[10px] w-[120px]">
             South Bend
           </p>
         </div>
@@ -115,8 +107,7 @@
         <div class="flex">
           <p class="text-base border-[1px] m-2 border-black">SUPERHOST</p>
           <p
-            class="text-base text-gray-500 items-center pl-[13px] mt-[20px] w-[120px]"
-          >
+            class="text-base text-gray-500 items-center pl-[13px] mt-[10px] w-[120px]">
             South Bend
           </p>
         </div>
