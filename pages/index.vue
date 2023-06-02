@@ -7,7 +7,7 @@
             <img src="/img/logoairbnb.png" class="w-[34px] h-[34px]" />
           </div>
           <div class="flex gap-5 text-white absolute top-[27px] right-[24px]">
-            <NuxtLink to="/about" class="gap-2.5">Français (FR)</NuxtLink>
+            <NuxtLink to="/about" class="gap-3">Français (FR)</NuxtLink>
             <NuxtLink to="/about" class="gap-3">EUR €</NuxtLink>
             <NuxtLink to="/about" class="gap-3">Devenir hôte</NuxtLink>
             <NuxtLink to="/about" class="gap-3">Créer son expérience</NuxtLink>

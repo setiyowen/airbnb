@@ -1,14 +1,14 @@
 <template>
-  <div class="overflow-hidden">
+  <div class="overflow-hidden mt-[350px] ml-20">
     <div>
-      <p class="text-xl font-semibold mt-80 ml-20">
+      <p class="text-xl font-semibold ">
         Destinations Airbnb Plus à la Une
       </p>
-      <p class="text font-base mb-8 mt-4 ml-20">
+      <p class="text font-base ">
         Voyages de plusieurs jours organisés par des experts locaux avec
         activités, repas et logements compris
       </p>
-      <div class="grid lg:grid-cols-3 ml-[80px] mr-[80px] m-3 justify-between">
+      <div class="grid lg:grid-cols-3 mt-12  px-[5px]  justify-between">
         <div class="flex-none">
           <img src="/img/desti1.png" alt="" />
           <p class="text-rose-900">Plus de 200 séjours vérifiés</p>
@@ -27,7 +27,7 @@
       </div>
     </div>
   </div>
-  <div class="flex justify-center">
+  <div class="flex justify-center mt-16 bg-white border-[1px] text-md">
     <footer>hallo</footer>
   </div>
 </template>

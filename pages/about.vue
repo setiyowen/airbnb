@@ -2,6 +2,9 @@
   <div></div>
 </template>
 
-<script setup></script>
+<script setup>
 
-<style></style>
+
+</script>
+
+

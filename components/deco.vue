@@ -3,7 +3,7 @@
     <h1 class="font-semibold  text-xl"> Découvrez les aventures Airbnb</h1>
     <p>Voyages de plusieurs jours organisés par des experts locaux avec activités, repas et logements compris</p>
   </div>
-  <div class="flex items-center py-[40px] px-[10px] mx-auto">
+  <div class="items-center mt-10 grid grid-cols-6 gap-x-8 ">
     <div class="flex-1 ">
       <img src="/img/deco1.png" class="h-auto" />
       <p class="text-xs font-sm mb-1">Cayman Islands</p>

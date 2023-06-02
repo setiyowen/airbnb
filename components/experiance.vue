@@ -7,64 +7,64 @@
       Voyages de plusieurs jours organisés par des experts locaux avec
       activités, repas et logements compris
     </p>
-    <div class="flex items-center mt-10">
+    <div class="items-center mt-10 grid grid-cols-6 gap-x-8 mr-16">
       <div class="flex-1 h-12">
         <img src="/img/exp1.png" class="h-auto" />
         <p class="text-xs font-sm mb-1">Cayman Islands</p>
         <p class="text-base font-semibold mb-2">
-          2 Nights PACKAGE All <br />
+          2 Nights PACKAGE All
           Inclusive
         </p>
         <p class="text-xs font-serif">
-          À partir de 577€/personne <br />- 3 jours
+          À partir de 577€/personne - 3 jours
         </p>
       </div>
       <div class="flex-1 h-12">
         <img src="/img/exp2.png" class="h-auto" />
-        <p class="text-xs font-sm">Uruguay</p>
-        <p class="text-base font-semibold">
-          2 Nights PACKAGE All <br />Inclusive
+        <p class="text-xs font-sm mb-1">Uruguay</p>
+        <p class="text-base font-semibold mb-2">
+          2 Nights PACKAGE All Inclusive
         </p>
         <p class="text-xs font-serif">
-          À partir de 577€/personne <br />
+          À partir de 577€/personne
           - 3 jours
         </p>
       </div>
       <div class="flex-1 h-12">
         <img src="/img/exp3.png" class="h-auto" />
-        <p class="text-xs font-sm">Iceland</p>
-        <p class="text-base font-semibold">
-          2 Nights PACKAGE All <br />
+        <p class="text-xs font-sm mb-1">Iceland</p>
+        <p class="text-base font-semibold mb-2">
+          2 Nights PACKAGE All
           Inclusive
         </p>
         <p class="text-xs font-serif">
-          À partir de 577€/personne <br />
+          À partir de 577€/personne
           - 3 jours
         </p>
       </div>
       <div class="flex-1 h-12">
         <img src="/img/exp4.png" class="h-auto" />
-        <p class="text-xs font-sm">Mongolia</p>
-        <p class="text-base font-semibold">
-          2 Nights PACKAGE All <br />
+        <p class="text-xs font-sm mb-1">Mongolia</p>
+        <p class="text-base font-semibold mb-2">
+          2 Nights PACKAGE All
           Inclusive
         </p>
         <p class="text-xs font-serif">
-          À partir de 577€/personne <br />- 3 jours
+          À partir de 577€/personne - 3 jours
         </p>
       </div>
       <div class="flex-1 h-12">
         <img src="/img/exp5.png" class="h-auto" />
-        <p class="text-xs font-sm">Bahrain</p>
-        <p class="text-base font-semibold">2 Nights PACKAGE All Inclusive</p>
+        <p class="text-xs font-sm mb-1">Bahrain</p>
+        <p class="text-base font-semibold mb-2">2 Nights PACKAGE All Inclusive</p>
         <p class="text-xs font-serif text-slate-800">
           À partir de 577€/personne - 3 jours
         </p>
       </div>
       <div class="flex-1 h-12">
         <img src="/img/exp6.png" class="h-auto" />
-        <p class="text-xs font-sm">Bosnia and Herzegovina</p>
-        <p class="text-base font-semibold">2 Nights PACKAGE All Inclusive</p>
+        <p class="text-xs font-sm mb-1">Bosnia and Herzegovina</p>
+        <p class="text-base font-semibold mb-2">2 Nights PACKAGE All Inclusive</p>
         <p class="text-xs font-serif">À partir de 577€/personne - 3 jours</p>
       </div>
     </div>
