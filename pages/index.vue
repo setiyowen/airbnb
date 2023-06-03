@@ -10,7 +10,7 @@
             <NuxtLink to="/about" class="gap-3">Français (FR)</NuxtLink>
             <NuxtLink to="/about" class="gap-3">EUR €</NuxtLink>
             <NuxtLink to="/about" class="gap-3">Devenir hôte</NuxtLink>
-            <NuxtLink to="/about" class="gap-3">Créer son expérience</NuxtLink>
+            <NuxtLink to="/products" class="gap-3">Créer son expérience</NuxtLink>
             <NuxtLink to="/about" class="gap-3">Aide</NuxtLink>
             <NuxtLink to="/about" class="gap-3">Inscription</NuxtLink>
             <NuxtLink to="/about" class="gap-3">Connexion</NuxtLink>

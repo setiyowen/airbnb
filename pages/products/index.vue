@@ -1,31 +1,18 @@
-<!-- <script setup>
-    const {data: count} = await useFetch("https://dummyjson.com/products");
-</script>
 <template>
     <div>
-        <div>
-            {{ counter }}
-        </div>
+        <h1>Product List</h1>
+        <ul>
+            <li v-for="product in products" :key="product.id">
+                <router-link :to="`/product/detail/${product.id}`">{{ product.name }}</router-link>
+            </li>
+        </ul>
     </div>
 </template>
+  
+<script setup>
+import { ref } from 'vue';
+import { useFetch } from 'vue-fetch-hooks';
 
-<script>
-export default {
-    data() {
-        return {
-            products: useFetch("https://dummyjson.com/products")
-        }
-    }
-}
-</script> -->
-<template>
-    <div>testing</div>
-</template>
-
-<script>
-export default {
-
-}
+const { data: products } = useFetch('https://dummyjson.com/products');
 </script>
-
-<style></style>
+  
