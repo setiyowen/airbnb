@@ -4,16 +4,18 @@
       <div>
         <div class="flex">
           <div class="pl-[25.65px] pt-[15.61px]">
-            <img src="/img/logoairbnb.png" class="w-[34px] h-[34px]" />
+            <a href="/" class="flex-shrink-0">
+              <img src="/img/logoairbnb.png" class="w-[34px] h-[34px]" />
+            </a>
           </div>
           <div class="flex gap-5 text-white absolute top-[27px] right-[24px]">
-            <NuxtLink to="/about" class="gap-3">Français (FR)</NuxtLink>
-            <NuxtLink to="/about" class="gap-3">EUR €</NuxtLink>
+            <NuxtLink to="https://www.tiket.com" class="gap-3">Français (FR)</NuxtLink>
+            <NuxtLink to="https://www.airbnb.com" class="gap-3">EUR €</NuxtLink>
             <NuxtLink to="/about" class="gap-3">Devenir hôte</NuxtLink>
             <NuxtLink to="/products" class="gap-3">Créer son expérience</NuxtLink>
-            <NuxtLink to="/about" class="gap-3">Aide</NuxtLink>
-            <NuxtLink to="/about" class="gap-3">Inscription</NuxtLink>
-            <NuxtLink to="/about" class="gap-3">Connexion</NuxtLink>
+            <NuxtLink to="/airbnb" class="gap-3">Aide</NuxtLink>
+            <NuxtLink to="https://www.expedia.co.id/" class="gap-3">Inscription</NuxtLink>
+            <NuxtLink to="https://www.pegipegi.com/hotel" class="gap-3">Connexion</NuxtLink>
           </div>
 
           <div class="bg-white w-[391px] h-[508px] mt-[132px] ml-[80px] rounded-md">
