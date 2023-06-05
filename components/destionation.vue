@@ -27,8 +27,8 @@
       </div>
     </div>
   </div>
-  <div class="flex justify-center mt-16 bg-white border-[1px] text-md">
-    <footer>hallo</footer>
+  <div class=" mt-20 bg-white border-[1px] text-md">
+    <airbnb />
   </div>
 </template>
 

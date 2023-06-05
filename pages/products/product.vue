@@ -7,10 +7,13 @@
     </div>
 </template>
 
-<script>
-export default {
+<script setup>
+const { id } = useRoute().params
+const uri = 'https://dummyjson.com/products/' + id
 
-}
+// fetch
+const { data: product } = await useFetch(uri)
+
 </script>
 
 <style></style>
