@@ -67,5 +67,10 @@
     <Heber />
 
     <loge />
+    <!-- <div v-for="product in data" :key="product.id">
+            {{ product.title }}
+            {{ product.description }}
+            {{ product.price }}
+        </div> -->
   </div>
 </template>

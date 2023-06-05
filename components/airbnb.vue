@@ -15,12 +15,6 @@
             </button>
         </div>
     </div>
-    <!-- list produk category -->
-    <div class="flex justify-center">
-        <!-- <catalog /> -->
-    </div>
-
-
     <div
         class="grid lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-2 xs:grid-cols-1 ml-[80px] mr-[80px] mt-[50px] gap-[8px] overflow-hidden">
         <div class="" v-for="items in product.products" :key="items.id">
@@ -38,6 +32,7 @@
             </NuxtLink>
 
         </div>
+        <detail />
     </div>
 </template>
 
