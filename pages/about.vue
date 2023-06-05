@@ -3,7 +3,6 @@
     <div class="flex">
       <div class="pl-[25.65px] pt-[15.61px]">
         <a href="/" class="flex-shrink-0">
-          <img src="/img/logoairbnb.png" class="w-[34px] h-[34px]" />
         </a>
       </div>
 
