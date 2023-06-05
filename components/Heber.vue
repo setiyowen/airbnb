@@ -8,7 +8,7 @@
     <div>
       <div class="flex items-center justify-center">
         <div class="mt-16 ">
-          <img src="/img/vector.png" alt="logo" class="ml-14">
+          <img src="/img/Vector.png" alt="logo" class="ml-14">
           <button type="button"
             class="px-4 py-3 mt-14 text-xs font-medium  text-black bg-white rounded-md hover:bg-gray-100 inline-flex ">Découvrir
             des logements
