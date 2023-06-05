@@ -12,7 +12,7 @@
 </template>
 
 <script setup>
-// const { data: products } = await useFetch('https://dummyjson.com/products')
+const { data: product } = await useFetch('https://dummyjson.com/products/1')
 
 
 
