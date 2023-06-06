@@ -14,8 +14,8 @@
   </div>
 </template>
 
-<!-- <script setup>
-const { data: product } = await useFetch('https://dummyjson.com/products') -->
+<script setup>
+const { data: product } = await useFetch('https://dummyjson.com/products')
 
 
 
