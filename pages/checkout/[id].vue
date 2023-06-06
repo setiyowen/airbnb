@@ -172,7 +172,7 @@
                                 <div>
                                     <NuxtLink :to="`/beli/` + id" :key="product.id">
                                         <p
-                                            class="inline-block rounded bg-gray-700 px-5 py-1 text-sm text-gray-100 transition hover:bg-gray-600  ">
+                                            class="inline-block rounded bg-gray-700 px-12 py-1 text-sm text-gray-100 transition hover:bg-gray-600 ">
                                             Bayar</p>
                                     </NuxtLink>
                                 </div>
