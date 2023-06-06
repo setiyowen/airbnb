@@ -96,7 +96,8 @@
                     </div>
                     <div>
                         <NuxtLink :to="`/checkout/` + id" :key="product.id">
-                            <div class="p-2 bg-gray-600 mx-5 ml-[10px] mt-[20px] rounded-md justify-center content-center">
+                            <div
+                                class="p-2 bg-gray-700 mx-5 ml-[10px] mt-[20px] rounded-md justify-center content-center hover:bg-gray-600">
                                 <p class="text-center font-semibold text-white">+ Keranjang</p>
                             </div>
                         </NuxtLink>

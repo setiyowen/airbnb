@@ -5,17 +5,17 @@
         <a href="/" class="flex-shrink-0">
         </a>
       </div>
-      <div class="bg-white">
+      <!-- <div class="bg-white">
         <h1 class="font-mediun text-3xl  tracking-wide ml-[80px] mt-[20px]">{{ products.title }}</h1>
         <h1>test</h1>
-      </div>
+      </div> -->
     </div>
 
   </div>
 </template>
 
-<script setup>
-const { data: product } = await useFetch('https://dummyjson.com/products')
+<!-- <script setup>
+const { data: product } = await useFetch('https://dummyjson.com/products') -->
 
 
 

@@ -87,7 +87,8 @@
                         </li>
 
                         <li class="flex items-center gap-4">
-                            <img src="/img/ip2.jpg" class="h-16 w-16 rounded object-cover" />
+                            <img src="https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+                                class="h-16 w-16 rounded object-cover" />
 
                             <div>
                                 <h3 class="text-sm text-gray-900">{{ product.title }}</h3>
@@ -146,7 +147,7 @@
 
                                 <div class="flex justify-between !text-base font-medium">
                                     <dt>Total</dt>
-                                    <dd>{{ product.total }}</dd>
+                                    <dd>${{ product.total }} 48,66</dd>
                                 </div>
                             </dl>
 
@@ -162,16 +163,20 @@
                                     <p class="whitespace-nowrap text-xs">2 Discounts Applied</p>
                                 </span>
                             </div>
-
-                            <div class="flex justify-end">
-                                <a href="#"
-                                    class="block rounded bg-gray-700 px-5 py-1 text-sm text-gray-100 transition hover:bg-gray-600">
-                                    Bayar
-                                </a>
+                            <div class="flex justify-between">
+                                <NuxtLink :to="`/`" :key="product.id">
+                                    <p
+                                        class="inline-block text-sm text-gray-500 underline underline-offset-4 transition hover:text-gray-600  ">
+                                        Lanjut Belanja</p>
+                                </NuxtLink>
+                                <div>
+                                    <NuxtLink :to="`/beli/` + id" :key="product.id">
+                                        <p
+                                            class="inline-block rounded bg-gray-700 px-5 py-1 text-sm text-gray-100 transition hover:bg-gray-600  ">
+                                            Bayar</p>
+                                    </NuxtLink>
+                                </div>
                             </div>
-                            <NuxtLink>
-                                <p>Lanjut Belanja</p>
-                            </NuxtLink>
                         </div>
                     </div>
                 </div>
